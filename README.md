@@ -1,4 +1,8 @@
-### Hi there 👋
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e0/a4/37/e0a437934af28de11398129b31111260.gif" alt="animated" />
+</p>
+
 
 <!--
 **luciaPardo/luciapardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
